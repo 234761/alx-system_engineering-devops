@@ -1,2 +1,2 @@
 #!/bin/bash
-sort head --lines=4 iacta | tail --lines=0
+echo -en "" | tail --lines=1 >> iacta
